@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnergyDisplay", "EnergyDisplay\EnergyDisplay.csproj", "{27D18739-4AA7-46F2-A562-879E4EE58988}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Logger", "..\..\Mixins\Logger\Logger.shproj", "{8C735068-C1F9-49C1-A7D4-050614A4446A}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		..\..\Mixins\Logger\Logger.projitems*{27d18739-4aa7-46f2-a562-879e4ee58988}*SharedItemsImports = 4
+		..\..\Mixins\Logger\Logger.projitems*{8c735068-c1f9-49c1-a7d4-050614a4446a}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27D18739-4AA7-46F2-A562-879E4EE58988}.Debug|x64.ActiveCfg = Debug|x64
+		{27D18739-4AA7-46F2-A562-879E4EE58988}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEA55F0E-89E4-4766-BC42-638BA0C82B80}
+	EndGlobalSection
+EndGlobal
