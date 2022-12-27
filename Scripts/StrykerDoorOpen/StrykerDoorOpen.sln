@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrykerDoorOpen", "StrykerDoorOpen\StrykerDoorOpen.csproj", "{A566DC33-52F6-4269-A773-2E52A4A4E0FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A566DC33-52F6-4269-A773-2E52A4A4E0FB}.Debug|x64.ActiveCfg = Debug|x64
+		{A566DC33-52F6-4269-A773-2E52A4A4E0FB}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A308C3E1-E890-4393-BB5D-5406F8EFCD6C}
+	EndGlobalSection
+EndGlobal
